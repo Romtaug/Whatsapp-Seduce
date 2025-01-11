@@ -42,9 +42,9 @@ def wait_for_internet():
         time.sleep(5)
     print("Connexion Internet établie.")
 
-# Liste des contacts et leurs préférences
+# Liste des contacts et leurs préférences, à modifier
 contacts = [
-    {"nom": "Ginette", "numéro": "+37062822336"},
+    {"nom": "Alexandra", "numéro": "+3362822336"},
     # Ajoutez d'autres contacts ici
 ]
 
